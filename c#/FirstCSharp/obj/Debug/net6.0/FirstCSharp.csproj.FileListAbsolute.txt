@@ -1,0 +1,15 @@
+/Users/maliqharris/Desktop/dojo_assignments/c#/FirstCSharp/bin/Debug/net6.0/FirstCSharp
+/Users/maliqharris/Desktop/dojo_assignments/c#/FirstCSharp/bin/Debug/net6.0/FirstCSharp.deps.json
+/Users/maliqharris/Desktop/dojo_assignments/c#/FirstCSharp/bin/Debug/net6.0/FirstCSharp.runtimeconfig.json
+/Users/maliqharris/Desktop/dojo_assignments/c#/FirstCSharp/bin/Debug/net6.0/FirstCSharp.dll
+/Users/maliqharris/Desktop/dojo_assignments/c#/FirstCSharp/bin/Debug/net6.0/FirstCSharp.pdb
+/Users/maliqharris/Desktop/dojo_assignments/c#/FirstCSharp/obj/Debug/net6.0/FirstCSharp.csproj.AssemblyReference.cache
+/Users/maliqharris/Desktop/dojo_assignments/c#/FirstCSharp/obj/Debug/net6.0/FirstCSharp.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maliqharris/Desktop/dojo_assignments/c#/FirstCSharp/obj/Debug/net6.0/FirstCSharp.AssemblyInfoInputs.cache
+/Users/maliqharris/Desktop/dojo_assignments/c#/FirstCSharp/obj/Debug/net6.0/FirstCSharp.AssemblyInfo.cs
+/Users/maliqharris/Desktop/dojo_assignments/c#/FirstCSharp/obj/Debug/net6.0/FirstCSharp.csproj.CoreCompileInputs.cache
+/Users/maliqharris/Desktop/dojo_assignments/c#/FirstCSharp/obj/Debug/net6.0/FirstCSharp.dll
+/Users/maliqharris/Desktop/dojo_assignments/c#/FirstCSharp/obj/Debug/net6.0/refint/FirstCSharp.dll
+/Users/maliqharris/Desktop/dojo_assignments/c#/FirstCSharp/obj/Debug/net6.0/FirstCSharp.pdb
+/Users/maliqharris/Desktop/dojo_assignments/c#/FirstCSharp/obj/Debug/net6.0/FirstCSharp.genruntimeconfig.cache
+/Users/maliqharris/Desktop/dojo_assignments/c#/FirstCSharp/obj/Debug/net6.0/ref/FirstCSharp.dll

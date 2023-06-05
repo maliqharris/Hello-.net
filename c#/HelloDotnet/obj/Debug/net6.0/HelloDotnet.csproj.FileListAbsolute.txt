@@ -1,0 +1,15 @@
+/Users/maliqharris/Desktop/dojo_assignments/c#/HelloDotnet/bin/Debug/net6.0/HelloDotnet
+/Users/maliqharris/Desktop/dojo_assignments/c#/HelloDotnet/bin/Debug/net6.0/HelloDotnet.deps.json
+/Users/maliqharris/Desktop/dojo_assignments/c#/HelloDotnet/bin/Debug/net6.0/HelloDotnet.runtimeconfig.json
+/Users/maliqharris/Desktop/dojo_assignments/c#/HelloDotnet/bin/Debug/net6.0/HelloDotnet.dll
+/Users/maliqharris/Desktop/dojo_assignments/c#/HelloDotnet/bin/Debug/net6.0/HelloDotnet.pdb
+/Users/maliqharris/Desktop/dojo_assignments/c#/HelloDotnet/obj/Debug/net6.0/HelloDotnet.csproj.AssemblyReference.cache
+/Users/maliqharris/Desktop/dojo_assignments/c#/HelloDotnet/obj/Debug/net6.0/HelloDotnet.GeneratedMSBuildEditorConfig.editorconfig
+/Users/maliqharris/Desktop/dojo_assignments/c#/HelloDotnet/obj/Debug/net6.0/HelloDotnet.AssemblyInfoInputs.cache
+/Users/maliqharris/Desktop/dojo_assignments/c#/HelloDotnet/obj/Debug/net6.0/HelloDotnet.AssemblyInfo.cs
+/Users/maliqharris/Desktop/dojo_assignments/c#/HelloDotnet/obj/Debug/net6.0/HelloDotnet.csproj.CoreCompileInputs.cache
+/Users/maliqharris/Desktop/dojo_assignments/c#/HelloDotnet/obj/Debug/net6.0/HelloDotnet.dll
+/Users/maliqharris/Desktop/dojo_assignments/c#/HelloDotnet/obj/Debug/net6.0/refint/HelloDotnet.dll
+/Users/maliqharris/Desktop/dojo_assignments/c#/HelloDotnet/obj/Debug/net6.0/HelloDotnet.pdb
+/Users/maliqharris/Desktop/dojo_assignments/c#/HelloDotnet/obj/Debug/net6.0/HelloDotnet.genruntimeconfig.cache
+/Users/maliqharris/Desktop/dojo_assignments/c#/HelloDotnet/obj/Debug/net6.0/ref/HelloDotnet.dll
